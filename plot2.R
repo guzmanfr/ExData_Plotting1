@@ -1,7 +1,7 @@
 ##
 ## Author: FJGC
 ## Date: 14-Aug-2020
-## plot2.R: builds the 1st plot. 1st reads the information and then builds the histogram
+## plot2.R: builds the 1st plot. 1st reads the information and then builds the plot
 ##          with required parameters
 ##
 
